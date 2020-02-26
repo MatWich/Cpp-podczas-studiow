@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ball.cpp
+  Block.cpp
+  Main.cpp
+C:\Users\Lenovo\source\repos\Arkanoid\Project3\Main.cpp(70,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\Arkanoid\Project3\Main.cpp(72,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xmemory(671,103): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(683): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(688): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned int,unsigned int,unsigned int&,unsigned int&>(_Alloc &,_Objty *const ,unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Block>,
+              _Ty=Block,
+              _Objty=Block
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\vector(701): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Block,std::allocator<Block>>::_Emplace_back_with_unused_capacity<_Ty,_Ty,unsigned int&,unsigned int&>(_Ty &&,_Ty &&,unsigned int &,unsigned int &)” funkcji szablon
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Lenovo\source\repos\Arkanoid\Project3\Main.cpp(74): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Block,std::allocator<Block>>::emplace_back<unsigned int,unsigned int,unsigned int&,unsigned int&>(unsigned int &&,unsigned int &&,unsigned int &,unsigned int &)” funkcji szablon
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xmemory(671,103): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Paddle.cpp
+  Generowanie kodu...
+C:\Users\Lenovo\source\repos\Arkanoid\Project3\Main.cpp(33): warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Lenovo\source\repos\Arkanoid\Project3\Main.cpp(61): warning C4715: "collisionTest”: niewszystkie ścieżki kodu zwracają wartość
+  Project3.vcxproj -> C:\Users\Lenovo\source\repos\Arkanoid\Debug\Arkanoid.exe
