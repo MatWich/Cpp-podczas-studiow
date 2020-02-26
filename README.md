@@ -6,3 +6,4 @@
 4. Histogram mo¿na sobie odkomentowaæ, aby wyisywa³ gwiazdki
 5. Lotto wypisywanie liczb pseudolsowych
 6. Polskie znaki w konsoli
+7. Funkcja read() - sprawdzanie czy dwa pliki s¹ identyczne czy nie
