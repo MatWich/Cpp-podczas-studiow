@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\Polskie znaki w konsoli\Polskie znaki w konsoli\main.cpp(23,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\Polskie znaki w konsoli\Polskie znaki w konsoli\main.cpp(30,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\Polskie znaki w konsoli\Polskie znaki w konsoli\main.cpp(31,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Polskie znaki w konsoli.vcxproj -> C:\Users\Lenovo\source\repos\Polskie znaki w konsoli\Debug\Polskie znaki w konsoli.exe
