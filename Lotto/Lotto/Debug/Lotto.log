@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\Lotto\Lotto\main.cpp(19,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Lotto.vcxproj -> C:\Users\Lenovo\source\repos\Lotto\Debug\Lotto.exe
