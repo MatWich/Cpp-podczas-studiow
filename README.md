@@ -10,3 +10,4 @@
 8. Rekurencja - funkcje iteracyjnie i rekurencyjnie potegi, ci¹gu fibonacziego, silnia, schemat Hornera
 9. Proste Menu - liczenie pól trójk¹ta kwadratu itp
 10. Liczby pierwsze - Dwie funkcje na NWD, generacja liczb pierwszych, funkcja sprawdzajaca czy dana liczba jest liczba pierwsza
+11. System dziesietny i dwojkowy funkcja na zamienianie 
