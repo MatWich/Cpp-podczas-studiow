@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\mezczyzna czy kobita\mezczyzna czy kobita\main.cpp(59,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\mezczyzna czy kobita\mezczyzna czy kobita\main.cpp(71,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\mezczyzna czy kobita\mezczyzna czy kobita\main.cpp(85,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\mezczyzna czy kobita\mezczyzna czy kobita\main.cpp(90,31): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\Lenovo\source\repos\mezczyzna czy kobita\mezczyzna czy kobita\main.cpp(93,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  mezczyzna czy kobita.vcxproj -> C:\Users\Lenovo\source\repos\mezczyzna czy kobita\Debug\mezczyzna czy kobita.exe
