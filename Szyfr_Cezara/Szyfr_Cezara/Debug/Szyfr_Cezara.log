@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\Szyfr_Cezara\Szyfr_Cezara\main.cpp(29,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\Szyfr_Cezara\Szyfr_Cezara\main.cpp(36,27): warning C4305: "+=": obcięcie z "int" do "char"
+C:\Users\Lenovo\source\repos\Szyfr_Cezara\Szyfr_Cezara\main.cpp(56,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Lenovo\source\repos\Szyfr_Cezara\Szyfr_Cezara\main.cpp(61,49): warning C4305: "-=": obcięcie z "int" do "char"
+  Szyfr_Cezara.vcxproj -> C:\Users\Lenovo\source\repos\Szyfr_Cezara\Debug\Szyfr_Cezara.exe
