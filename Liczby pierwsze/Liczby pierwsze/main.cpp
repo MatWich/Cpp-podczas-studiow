@@ -9,6 +9,9 @@ void sito_Erastoteneta();
 int Euklides_NWD(int, int);
 //Prostsza wersja Euklides_NWD
 int NWD(int, int);
+
+void wielokrotnosc();
+
 int main()
 {
 
@@ -17,6 +20,7 @@ int main()
 	//sito_Erastoteneta();
 	std::cout << Euklides_NWD(238, 84) << std::endl;
 	std::cout << NWD(238, 84) << std::endl;
+	wielokrotnosc();
 	system("pause");
 	return 0;
 }
@@ -128,4 +132,21 @@ int NWD(int licznik, int mianownik)	//ulamek ma licznik i mianownik jak cos to n
 		mianownik = reszta;
 	}
 	return mianownik;
+}
+
+void wielokrotnosc()
+{
+	int liczba1, liczba2;
+
+	std::cout << "Podaj pierwsza liczbe, ktora chcesz sprawdzic: "; std::cin >> liczba1;	std::cin.ignore();	std::cout << std::endl;
+	std::cout << "Podaj pod katem jakiej liczby chcesz sprawdzic wielokrotnosc: "; std::cin >> liczba2;	std::cin.ignore();	std::cout << std::endl;
+
+	if (liczba1 % liczba2 == 0)
+	{
+		std::cout << liczba1 << " jest wielokrotnoscia liczby " << liczba2 << std::endl;
+	}
+	else
+	{
+		std::cout << liczba1 << " nie jest wielokrotnoscia liczby " << liczba2 << std::endl;
+	}
 }

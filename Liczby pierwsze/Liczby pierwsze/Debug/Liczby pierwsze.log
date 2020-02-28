@@ -1,6 +1,6 @@
 ﻿  main.cpp
-C:\Users\Lenovo\source\repos\Liczby pierwsze\Liczby pierwsze\main.cpp(47,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
-C:\Users\Lenovo\source\repos\Liczby pierwsze\Liczby pierwsze\main.cpp(70,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
-C:\Users\Lenovo\source\repos\Liczby pierwsze\Liczby pierwsze\main.cpp(75,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
-C:\Users\Lenovo\source\repos\Liczby pierwsze\Liczby pierwsze\main.cpp(90,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
-  Liczby pierwsze.vcxproj -> C:\Users\Lenovo\source\repos\Liczby pierwsze\Debug\Liczby pierwsze.exe
+E:\Git_Hub\Cpp-podczas-studiow\Liczby pierwsze\Liczby pierwsze\main.cpp(51,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Git_Hub\Cpp-podczas-studiow\Liczby pierwsze\Liczby pierwsze\main.cpp(74,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+E:\Git_Hub\Cpp-podczas-studiow\Liczby pierwsze\Liczby pierwsze\main.cpp(79,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+E:\Git_Hub\Cpp-podczas-studiow\Liczby pierwsze\Liczby pierwsze\main.cpp(94,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  Liczby pierwsze.vcxproj -> E:\Git_Hub\Cpp-podczas-studiow\Liczby pierwsze\Debug\Liczby pierwsze.exe
