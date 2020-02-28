@@ -1,8 +1,10 @@
 #include<iostream>
 #include<ctime>
+#include<conio.h>
 
 void Menu();
 void Decyzja_po_menu(int);
+void Czy_bd_z_tego_trojkat();
 double PoleKwadratu(double);
 double PoleKola(double);
 double PoleTrojkata(double, double);
@@ -16,7 +18,7 @@ int main()
 		Menu();
 		int wybor = 0;
 		std::cin >> wybor;
-		if (wybor != 5)
+		if (wybor != 6)
 		{
 			Decyzja_po_menu(wybor);
 		}
@@ -33,13 +35,14 @@ int main()
 void Menu()
 {
 	std::cout <<"WYBIERZ OPCJE: "<< std::endl;
-	std::cout << "/////////////////////////////" << std::endl;
-	std::cout << "// 1.Pole kola             //" << std::endl;
-	std::cout << "// 2.Pole kwadratu:        //" << std::endl;
-	std::cout << "// 3.Pole prostokata       //" << std::endl;
-	std::cout << "// 4.Pole trojkata         //" << std::endl;
-	std::cout << "// 5.Wychodzisz z programu //" << std::endl;
-	std::cout << "/////////////////////////////" << std::endl;
+	std::cout << "///////////////////////////////////" << std::endl;
+	std::cout << "// 1.Pole kola                   //" << std::endl;
+	std::cout << "// 2.Pole kwadratu:              //" << std::endl;
+	std::cout << "// 3.Pole prostokata             //" << std::endl;
+	std::cout << "// 4.Sprawdz czy to jest trojkat //" << std::endl;
+	std::cout << "// 5.Pole trojkata               //" << std::endl;
+	std::cout << "// 6.Wychodzisz z programu       //" << std::endl;
+	std::cout << "///////////////////////////////////" << std::endl;
 }
 
 double PoleKwadratu(double bok)
@@ -90,12 +93,35 @@ void Decyzja_po_menu(int wybor)
 		PoleProstokata(bok_dluzszy, bok_krotszy);
 		break;
 	case 4:
+		Czy_bd_z_tego_trojkat();
+		break;
+	case 5:
 		std::cout << "Podaj bok: "; std::cin >> bok;
 		std::cout << "Podaj wysokosc: "; std::cin >> wysokosc;	
 		PoleTrojkata(wysokosc, bok);
 		break;
+	case 6:
+		break;
 	default:
 		std::cout << "Nie ma takiej opcji w menu ale milo ze sprobowales :D" << std::endl;
 		break;
+	}
+}
+
+void Czy_bd_z_tego_trojkat()
+{
+	int a, b, c;
+
+	std::cout << "Podaj bok a: "; std::cin >> a;	std::cin.ignore();	std::cout << std::endl;
+	std::cout << "Podaj bok b: "; std::cin >> b;	std::cin.ignore();	std::cout << std::endl;
+	std::cout << "Podaj bok c: "; std::cin >> c;	std::cin.ignore();	std::cout << std::endl;
+
+	if ((a < b + c) && (b < a + c) && (c < a + b))
+	{
+		std::cout << "Z takichbokow mozna zbudowac trojkat :D" << std::endl;
+	}
+	else
+	{
+		std::cout << "Nie mozna z takich bokow zbudowac trojata :| " << std::endl;
 	}
 }
