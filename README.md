@@ -14,3 +14,4 @@
 12. Szyfr Cezara - zamiana znakow
 13. nieparzyste, rozbijanie i plec - proste funkcje generujace liczby nie parzyste , rozbijajaca liczby i okreslajaca plec na podst imienia
 14. Inteligentne_haslo - sprawdza czy haslo jakie podamy ma DUZA i mala litere a takze liczbe
+15. Interpolacja_Lagrange'a - ma menu wiec mozliwe ze w przyszlosci dojda nastepne opcje
