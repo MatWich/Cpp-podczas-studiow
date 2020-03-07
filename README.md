@@ -3,15 +3,15 @@
 1. Mini baza danych w notatniku z menu
 2. Arkanoid gra napisana przy pomocy biblioteki SFML
 3. Biblioteka fstream zastosowanie i objasnienie kilku  funkcji (w komentarzu)
-4. Histogram mo¿na sobie odkomentowaæ, aby wyisywa³ gwiazdki
+4. Histogram moï¿½na sobie odkomentowaï¿½, aby wyisywaï¿½ gwiazdki
 5. Lotto wypisywanie liczb pseudolsowych
 6. Polskie znaki w konsoli
 7. Funkcja read() - sprawdzanie czy dwa pliki sa identyczne czy nie
-8. Rekurencja - funkcje iteracyjnie i rekurencyjnie potegi, ci¹gu fibonacziego, silnia, schemat Hornera
-9. Proste Menu - liczenie pól trójk¹ta kwadratu itp
+8. Rekurencja - funkcje iteracyjnie i rekurencyjnie potegi, ciï¿½gu fibonacziego, silnia, schemat Hornera
+9. Proste Menu - liczenie pï¿½l trï¿½jkï¿½ta kwadratu itp
 10. Liczby pierwsze - Dwie funkcje na NWD, generacja liczb pierwszych, funkcja sprawdzajaca czy dana liczba jest liczba pierwsza oraz wielokrotnosc
 11. System dziesietny i dwojkowy funkcja na zamienianie 
 12. Szyfr Cezara - zamiana znakow
 13. nieparzyste, rozbijanie i plec - proste funkcje generujace liczby nie parzyste , rozbijajaca liczby i okreslajaca plec na podst imienia
 14. Inteligentne_haslo - sprawdza czy haslo jakie podamy ma DUZA i mala litere a takze liczbe
-15. Interpolacja_Lagrange'a - ma menu wiec mozliwe ze w przyszlosci dojda nastepne opcje
+15. Interpolacja_Lagrange'a - ma menu w ktorym mozna tez znalezc interpolacje metoda Newtona
