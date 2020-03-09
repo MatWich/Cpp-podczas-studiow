@@ -1,4 +1,4 @@
 ﻿  main.cpp
-D:\Git_Hub\Cpp-podczas-studiow\Interpolacja_Lagrangea\Interpolacja_Lagrangea\main.cpp(47,9): warning C4551: wywołaniu funkcji brakuje listy argumentów
-D:\Git_Hub\Cpp-podczas-studiow\Interpolacja_Lagrangea\Interpolacja_Lagrangea\main.cpp(106,3): warning C4551: wywołaniu funkcji brakuje listy argumentów
-  Interpolacja_Lagrangea.vcxproj -> D:\Git_Hub\Cpp-podczas-studiow\Interpolacja_Lagrangea\Debug\Interpolacja_Lagrangea.exe
+C:\Users\Lenovo\Desktop\Interpolacja_Lagrangea\Interpolacja_Lagrangea\main.cpp(47,9): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Lenovo\Desktop\Interpolacja_Lagrangea\Interpolacja_Lagrangea\main.cpp(106,3): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Interpolacja_Lagrangea.vcxproj -> C:\Users\Lenovo\Desktop\Interpolacja_Lagrangea\Debug\Interpolacja_Lagrangea.exe

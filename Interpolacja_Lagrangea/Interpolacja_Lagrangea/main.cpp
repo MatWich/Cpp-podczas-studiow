@@ -140,11 +140,9 @@ void Int_Newtona()
 		{
 			for (j = ile_wezlow - 1; j > i; j--)
 			{
-				if (i != j)
-				{
-					ytab[j] = (ytab[j] - ytab[j - 1]) / (xtab[j] - xtab[j - i - 1]);
-				}
+					ytab[j] = (ytab[j] - ytab[j - 1]) / (xtab[j] - xtab[j -i - 1]);
 			}
+            std::cout << "b" << i << ": " << ytab[i] << std::endl;
 		}
 
 		double sum = 0;	double mult;
